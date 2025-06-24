@@ -16,6 +16,13 @@
 ### Project overview
 
 This is the case study Bright TV it gives insights that will help the company increase it annual goal
+![Screenshot 2025-06-24 190211](https://github.com/user-attachments/assets/21470a19-e9ef-4627-96c1-5d09ddc31ba1)
+![Screenshot 2025-06-24 195057](https://github.com/user-attachments/assets/2a52a293-3c56-48ca-b37e-ef6f06e25ce5)
+
+
+
+
+
 
 ## Data sources
 
