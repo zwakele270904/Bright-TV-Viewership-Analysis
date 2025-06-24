@@ -2,15 +2,15 @@
 
 
 ## Table of contents
-- [Project overview](proje-overview)
-- [Data sources](data-sources)
-- [Tools](tools) 
-- [Exploratory Analysis](exploratory-analysis) 
-- [Data analysis](data-analysis)
-- [Findings](findings)
-- [Recommendations](recommendations)
-- [Limitations](limitations)
-- [References](references)
+- [Project overview](#project-overview)
+- [Data sources](#data-sources)
+- [Tools](#tools) 
+- [Exploratory Analysis](#exploratory-analysis) 
+- [Data analysis](#data-analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
 
 
 ### Project overview
