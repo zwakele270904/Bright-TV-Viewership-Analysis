@@ -1,4 +1,4 @@
----------------# Bright TV Analysis
+# Bright TV Analysis
 
 
 ## Table of contents
