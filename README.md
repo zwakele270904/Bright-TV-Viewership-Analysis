@@ -263,7 +263,7 @@ The result are summarised as follows
 - Offer a variety of channels that will attract every gender, race and age group
 - Have original content that cannot be found easy or be easily provided by other competitors
 
-### Factors affecting consumpition 
+### Factors affecting consumption 
 - The first factor to affect location as we saw that Gauteng is the province with the most views matching with the fact that it is the the province with the most number of people among the 9 provinces
 - The second factor was age we saw that the age that dominated the views is the age from 20 to 35 years and the least were the age greater than 80 of which it might be according to the fact that young adults understands and are more interested to the channels over pensioners
   
@@ -275,7 +275,10 @@ The result are summarised as follows
 
 ### References
 - google for good findings
-- Notes 
+- Notes
+
+
+
 
   
 
