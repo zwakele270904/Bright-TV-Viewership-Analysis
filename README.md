@@ -30,7 +30,7 @@ This is the case study Bright TV it gives insights that will help the company in
 
 ## Data sources
 
-Bright TV datasetn: The primary dataset for this analysis is "           " file containing information about company.
+Bright TV datasetn: The primary dataset for this analysis is "Bright TV -Dataset casestudy2.xlsx" file containing information about company.
 
 ### Tools 
 
