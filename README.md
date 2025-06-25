@@ -8,7 +8,9 @@
 - [Exploratory Analysis](#exploratory-analysis) 
 - [Data analysis](#data-analysis)
 - [Findings](#findings)
-- [Recommendations](#recommendations)
+- [Ways to generate revenue](#ways-to_generate_more_revenue)
+- [Ways to increase base](#ways-to-increase-base)
+- [Factors affecting consumption](#factors-affecting-consumption)
 - [Limitations](#limitations)
 - [References](#references)
 
@@ -253,11 +255,18 @@ The result are summarised as follows
   
 
 
-### Recommendations 
-- Offer a variety of channels that will attract every gender,race and age group
-- Have original content that cannot be found easy and anywhere by other channels
+### Ways to generate more revenue
 - Use pomotions and discounts and accurately identiy target market through advertisng
 - Have subscription fees that varies with different channels
+
+### Ways to increase base
+- Offer a variety of channels that will attract every gender, race and age group
+- Have original content that cannot be found easy or be easily provided by other competitors
+
+### Factors affecting consumpition 
+- The first factor to affect location as we saw that Gauteng is the province with the most views matching with the fact that it is the the province with the most number of people among the 9 provinces
+- The second factor was age we saw that the age that dominated the views is the age from 20 to 35 years and the least were the age greater than 80 of which it might be according to the fact that young adults understands and are more interested to the channels over pensioners
+  
 
 
 ### Limitations 
