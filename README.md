@@ -36,10 +36,15 @@ Bright TV datasetn: The primary dataset for this analysis is "           " file 
 
 ### Exploratory Analysis
 
-- What is the most watched and the least watched channel
-- Which month has the most viewers
-- Which race contribute the most views
-- Which age group is dominant in terms of viewers
+- Viewership across different provinces
+- What are the most watched channels
+- Which month has the most viewership
+- Do people watch more on weekdays or weekends
+- Which racial group has the most viewership
+- How does viewership vary across different age groups
+- Is there a different in viewerships between males and females
+- What are the peak hours for viewerships
+  
 
 ### Data analysis
 
@@ -235,10 +240,15 @@ LIMIT 5;
 
 ### Findings
 The result are summarised as follows
-- The month that has the most views is March
-- The age group with the most views are young adults fom an age interval of 20 to 35 years
-- Most watched channel was the supersport live events having E! entertainment as the least watched
-- Blacks are the race with the most viewers
+- Gauteng province is  the highest province in viewerships among the 9 provinces having 36.54% 
+- The most watched channel was the Supersport live events contributing contributing 16.38%  a bit higher than an ICC Cricket world cup 2011 which has 14.65%.
+- March is an outlier having 48.21% almost two times higher than the other months , January is the month that has the least vieweships scoring 22.03%
+- By findings midweek has less viewership compared to the weekend although the is a tie of 16% between Friday to Monday which is the higher percentage in 7 days of the week
+- Blacks race was highly dominant in terms of viewerships having 43% almost getting half of the whole viewership percentage
+- Young Adults the age group  from 20 to 35 years has the most viewership percentage of 59.01% and pensioners the age group greater than 80 are the least age group with  0.13%
+- Very late the time interval from 23:01 to 00:59 was the time interval with the highest percentage of viewership having 38.22% followed by Evening time interval at 19.34% the time from 17:00 to 20:00
+- Males got the highest gender vieweship taking 87%
+  
 
 
 ### Recommendations 
