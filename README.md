@@ -284,7 +284,6 @@ The result are summarised as follows
 - I had the 5 duplicates in my data of which I had to remove them to make the results accurate
 
 ### References
-- google for good findings
 - Notes
 
 
