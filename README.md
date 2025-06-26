@@ -1,8 +1,10 @@
-# Bright TV Analysis
+# Bright TV Viewership  Analysis
+An analysis of TV channels that aim to improve viewership base and revenue in a company
 
 
 ## Table of contents
 - [Project overview](#project-overview)
+- [Skills shown](#skills-shown)
 - [Data sources](#data-sources)
 - [Tools](#tools) 
 - [Exploratory Analysis](#exploratory-analysis) 
@@ -21,6 +23,14 @@ This is the case study Bright TV it gives insights that will help the company in
 
 ![Screenshot 2025-06-24 190211](https://github.com/user-attachments/assets/21470a19-e9ef-4627-96c1-5d09ddc31ba1)
 ![Screenshot 2025-06-25 103424](https://github.com/user-attachments/assets/30cf3b67-8d31-4bed-ae59-9d80ddc9393e)
+
+
+### Skills shown
+- Data analysis
+- Insights presentation
+- Audience segmentation
+- Trend analysis
+- Stake holder communication
 
 
 
